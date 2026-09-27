@@ -2,6 +2,7 @@
 I specialize in Dataiku DSS, SQL, Python, Spark, ETL/ELT pipelines, and Power BI, with hands-on experience in building end-to-end data workflows and integrating data from enterprise sources such as Amazon Redshift, Amazon S3, and SharePoint.
 
 🛠️ What I Work With
+
 Data Engineering: ETL/ELT, Dataiku Flows, data pipelines
 Programming & Analytics: Python, SQL, Advanced Excel
 Dataiku DSS: Visual, SQL, Python & Spark Recipes, Scenarios, Checks & Metrics, Plugins, Code Environments, Project Bundles, Automation Node & Deployer
