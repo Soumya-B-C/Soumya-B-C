@@ -1,5 +1,5 @@
-## Hi 👋 I am Data Engineering Analyst at Birlasoft with 4 years of experience in designing, developing, and optimizing scalable data engineering solutions
-I specialize in Dataiku DSS, SQL, Python, Spark, ETL/ELT pipelines, and Power BI, with hands-on experience in building end-to-end data workflows and integrating data from enterprise sources such as Amazon Redshift, Amazon S3, and SharePoint.
+## Hi 👋 I'm Soumya - Data Engineering Analyst
+I’m a Data Engineering Analyst at Birlasoft with 4 years of experience designing, developing, and optimizing scalable data engineering solutions. I specialize in Dataiku DSS, SQL, Python, Apache Spark, and ETL/ELT pipelines, with hands-on experience building end-to-end data workflows and integrating enterprise data sources such as Amazon Redshift, Amazon S3, and SharePoint. I enjoy optimizing data pipelines, automating workflows, and delivering reliable datasets that support analytics and business decisions.
 
 🛠️ What I Work With
 
